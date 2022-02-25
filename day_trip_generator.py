@@ -38,3 +38,4 @@ while notOkay:
     if(user_choice == 1):
         notOkay = False
         #lock in the first choice from random operation 
+ 
